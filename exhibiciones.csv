@@ -1,1 +1,1 @@
-id_exhibicion,a–o,curador_0,curador_1,curador_2,fecha_inicio,fecha_cierre,artista_0,artista_1,artista_2,artista_3,artista_4,artista_5,artista_6,artista_7,artista_8,colectivo,id_obra,descripcion,foto,audio,video
+id_exhibicion,nombre,a–o,id_locacion,id_curador_0,id_curador_1,id_curador_2,fecha_inicio,fecha_cierre,id_obra,colectivo,id_artista_0,id_artista_1,id_artista_2,id_artista_3,id_artista_4,id_artista_5,id_artista_6,id_artista_7,id_artista_8,descripcion,foto,audio,video1,Noviembre Electr—nico 2014,2014,1,1,,,2014-11-13,2014-11-23,,,,,,,,,,,,,,,
